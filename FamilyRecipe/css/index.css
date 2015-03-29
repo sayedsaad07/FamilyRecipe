@@ -1,0 +1,15 @@
+﻿body {
+}
+
+#contactform input, #contactform textarea
+{
+    width:400px;
+    border-radius:1em;
+
+}
+#contactform span{ color: #999}
+
+#contactform span.error{ color: #c00}
+#contactform input.error {
+    background-color: #465f82;
+}
